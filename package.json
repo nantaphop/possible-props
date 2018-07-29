@@ -2,7 +2,7 @@
   "name": "possible-props",
   "version": "1.0.0",
   "description": "Utility to generate all combination of possible props of components. Useful with Storybook",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel lib -d dist",
