@@ -31,5 +31,10 @@
     "react-dom": "^16.4.1",
     "styled-components": "^3.3.3"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nantaphop/possible-props.git"
+  },
+  "homepage": "https://github.com/nantaphop/possible-props#readme",
 }
