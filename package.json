@@ -1,6 +1,6 @@
 {
   "name": "possible-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to generate all combination of possible props of components. Useful with Storybook",
   "main": "dist/index.js",
   "scripts": {
