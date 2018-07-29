@@ -1,4 +1,6 @@
 # Possible Props
+Utility to generate all combination of possible props of components. Useful with Storybook
+
 ## Motivation
 Mostly our components received a lot of props to customized how its look. But it difficult to visualized every possible props that can be together. So, I create simple utility function that should be use in `Storybook` stories to generate all props for our components.
 
