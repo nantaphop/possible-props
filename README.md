@@ -14,6 +14,10 @@ npm install possible-props
 ## Example Usage (Storybook)
 Let say we have a Button Component which received several props, `btnStyle`, `size`, `bordered` and `children`
 ```javascript
+    import possibleProps from 'possibleProps'
+
+    ...
+    
     storiesOf('Button', module)
     .add('Custom Render Story', () => <Container>
         {
